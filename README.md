@@ -1,3 +1,4 @@
+![213916221-ec2281dd-00b6-4491-b0ad-614fd2463028](https://user-images.githubusercontent.com/124068895/215821260-027bff4f-f273-404f-97dd-e8a5f6161e80.png)
 #online voting
 
 
@@ -54,8 +55,18 @@ npm test
 
 SCREEN SHOOTS:-
 
+![213916221-ec2281dd-00b6-4491-b0ad-614fd2463028](https://user-images.githubusercontent.com/124068895/215821358-a9dcde5d-91ff-40a6-8ae3-38059df7ec8b.png)
 
-![213916282-d09c4734-88fd-4f1c-9727-ac2a2b343c8f](https://user-images.githubusercontent.com/124068895/215817792-a983fe9b-79d6-4c43-bf32-b1a22416c3e8.png)
-![213916273-329402c0-9f22-422e-b1a7-a3f3e78d7d91](https://user-images.githubusercontent.com/124068895/215817799-ac625508-12ac-4cd6-bda9-44c75e3df0f4.png)
-![213916274-1358fdb7-2f31-4f88-b923-902ebbaeee1d](https://user-images.githubusercontent.com/124068895/215817802-d504ee0a-3264-4ee2-89a7-9b996a706ec1.png)
-![213916221-ec2281dd-00b6-4491-b0ad-614fd2463028](https://user-images.githubusercontent.com/124068895/215817806-c49ec8c3-7b5e-4ac3-8dae-f3d2f567d4a6.png)
+![213916274-1358fdb7-2f31-4f88-b923-902ebbaeee1d](https://user-images.githubusercontent.com/124068895/215821406-d2a1e64d-f9d9-4b98-9589-d654bc31d925.png)
+
+![213916273-329402c0-9f22-422e-b1a7-a3f3e78d7d91](https://user-images.githubusercontent.com/124068895/215821492-e60469d0-3fcd-4658-9133-6bcc18dc42f9.png)
+
+![213916282-d09c4734-88fd-4f1c-9727-ac2a2b343c8f](https://user-images.githubusercontent.com/124068895/215821553-52983ef9-a109-4f55-b1e3-9c18d10d5983.png)
+
+DEMO VIDEO:-
+
+https://www.loom.com/share/23d794661afc4e7eb1393b63d66f40ba
+
+LIVE LINK:-
+
+https://voting-mli2.onrender.com/
