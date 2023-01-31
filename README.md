@@ -51,9 +51,11 @@ Run test cases
 
 npm test
 
-SCREEN SHOOTS:-![213916221-ec2281dd-00b6-4491-b0ad-614fd2463028](https://user-images.githubusercontent.com/124068895/215817479-594b5c62-3264-475c-8da7-8c79e3c28277.png)
-![213916274-1358fdb7-2f31-4f88-b923-902ebbaeee1d](https://user-images.githubusercontent.com/124068895/215817543-f6cdf18e-2e43-4f59-ae9b-9c0cf9039149.png)
-![213916282-d09c4734-88fd-4f1c-9727-ac2a2b343c8f](https://user-images.githubusercontent.com/124068895/215817579-d802fc23-ed50-468e-bf30-0f5f9460b33d.png)
-![213916273-329402c0-9f22-422e-b1a7-a3f3e78d7d91](https://user-images.githubusercontent.com/124068895/215817588-8735eb33-7e63-4658-8f66-b4be3c310d29.png)
-![213916274-1358fdb7-2f31-4f88-b923-902ebbaeee1d](https://user-images.githubusercontent.com/124068895/215817592-88805344-97be-4946-ac69-c593270408a0.png)
-![213916221-ec2281dd-00b6-4491-b0ad-614fd2463028](https://user-images.githubusercontent.com/124068895/215817595-9d4999f7-e12f-46ca-ad6a-be79df799095.png)
+
+SCREEN SHOOTS:-
+
+
+![213916282-d09c4734-88fd-4f1c-9727-ac2a2b343c8f](https://user-images.githubusercontent.com/124068895/215817792-a983fe9b-79d6-4c43-bf32-b1a22416c3e8.png)
+![213916273-329402c0-9f22-422e-b1a7-a3f3e78d7d91](https://user-images.githubusercontent.com/124068895/215817799-ac625508-12ac-4cd6-bda9-44c75e3df0f4.png)
+![213916274-1358fdb7-2f31-4f88-b923-902ebbaeee1d](https://user-images.githubusercontent.com/124068895/215817802-d504ee0a-3264-4ee2-89a7-9b996a706ec1.png)
+![213916221-ec2281dd-00b6-4491-b0ad-614fd2463028](https://user-images.githubusercontent.com/124068895/215817806-c49ec8c3-7b5e-4ac3-8dae-f3d2f567d4a6.png)
